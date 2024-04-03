@@ -1,10 +1,10 @@
 /**
- * @file      int_app.h
- * @author    Karol Grela
- * @copyright Copyright information missing
- * @date      28.03.2024
+ * @file      
+ * @author    
+ * @copyright 
+ * @date      
  *
- * @brief     VBT structure definition
+ * @brief     
  */
  #ifndef EXAMPLE_H
  #define EXAMPLE_H
