@@ -1,7 +1,7 @@
 /**
- * @file        int_app.c
- * @author      Automotive Lighting
- * @copyright   Copyright information missing
+ * @file        
+ * @author      
+ * @copyright
  */
 
 /******************************************************************************
